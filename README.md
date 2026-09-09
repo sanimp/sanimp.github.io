@@ -1,6 +1,6 @@
 # Priscilla Sarfoa Anim — Portfolio Website
 
-A single-page portfolio site: hero, About, Research Focus, Projects, Experience,
+A single-page portfolio site: About, Research Focus, Projects, Experience,
 Education, Awards, and Contact. Built with plain HTML, CSS, and JavaScript —
 no build step, no framework, no dependencies to install.
 
