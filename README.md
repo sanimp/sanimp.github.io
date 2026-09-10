@@ -140,12 +140,3 @@ already wired in is [Formspree](https://formspree.io):
 Until that's done, visitors can still reach you directly through the email,
 LinkedIn, and GitHub links also listed in the Contact section — those work
 with no setup.
-
-## Notes on content accuracy
-
-This site's content reflects a detailed accuracy pass (award names, project
-methodology descriptions, coursework status, stats). A few items were left
-as-is because they couldn't be independently verified — see the summary from
-our conversation for the specific claims worth double-checking before you
-share this link widely (exact travel award names, conference attended/upcoming
-status, and so on).
